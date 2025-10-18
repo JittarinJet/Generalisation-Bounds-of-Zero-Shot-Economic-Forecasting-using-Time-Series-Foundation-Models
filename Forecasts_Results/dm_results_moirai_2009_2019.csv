@@ -1,0 +1,4 @@
+models,DM_stat,p_value,rmse
+GDP_moirai_base,-3.4405,0.0014,0.2692
+GDP_LSboost,-1.1955,0.2389,0.4876
+GDP_Factor,-0.6909,0.4936,0.6328

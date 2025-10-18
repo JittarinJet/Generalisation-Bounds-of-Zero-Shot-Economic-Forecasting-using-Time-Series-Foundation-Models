@@ -1,0 +1,10 @@
+,MAE,RMSE,SMAPE,MASE
+persistence,3.06,5.54,0.90,1.01
+autoarima,2.97,4.63,0.93,0.98
+timegpt,2.93,4.95,0.91,0.97
+chronos_small,2.71,4.24,0.94,0.89
+chronos_base,2.70,4.26,0.92,0.89
+chronos_large,2.79,4.57,0.94,0.92
+moirai_small,1.24,3.05,0.43,0.41
+moirai_base,0.91,1.57,0.44,0.30
+moirai_large,0.85,1.86,0.36,0.28
